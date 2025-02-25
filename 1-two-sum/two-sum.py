@@ -10,5 +10,5 @@ class Solution(object):
             if num in m:
                 return [idx, m[num]]
             m[target - num] = idx
-        #skj dnakjndsakjndaskjsdnaskjndaskjdnaskjdnas
+        #giridhar anir
         
